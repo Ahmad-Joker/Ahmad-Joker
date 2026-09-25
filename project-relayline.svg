@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="190" viewBox="0 0 1080 190" role="img" aria-labelledby="t d">
+  <title id="t">Relayline Social Studio</title><desc id="d">Durable multi-platform social publishing system by Ahmad Essam.</desc>
+  <rect width="1080" height="190" rx="18" fill="#07111F"/><rect x="1" y="1" width="1078" height="188" rx="17" fill="none" stroke="#2F81F7"/>
+  <rect x="0" width="8" height="190" rx="4" fill="#2F81F7"/><text x="34" y="42" fill="#58A6FF" font-family="ui-monospace,Consolas,monospace" font-size="14">01 // BACKEND SYSTEMS</text>
+  <text x="34" y="79" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial" font-size="28" font-weight="700">Relayline Social Studio</text>
+  <text x="34" y="111" fill="#B7C9DE" font-family="Inter,Segoe UI,Arial" font-size="16">Durable multi-platform campaign publishing with verified webhooks, retries and secure credentials.</text>
+  <text x="34" y="143" fill="#7D92AE" font-family="ui-monospace,Consolas,monospace" font-size="14">ROLE  Sole developer · architecture, API, worker, UI and tests</text>
+  <text x="34" y="168" fill="#22D3EE" font-family="ui-monospace,Consolas,monospace" font-size="13">FastAPI · PostgreSQL · React · Docker · pytest</text>
+  <rect x="876" y="28" width="168" height="30" rx="15" fill="#0B2630" stroke="#22D3EE"/><text x="960" y="48" fill="#9EF2FF" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="12">CAPSTONE · LOCAL</text>
+  <text x="1044" y="164" fill="#58A6FF" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13">VIEW REPOSITORY ↗</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="190" viewBox="0 0 1080 190" role="img" aria-labelledby="t d">
+  <title id="t">Task API</title><desc id="d">FastAPI backend with persistence, authentication and structured LLM triage.</desc>
+  <rect width="1080" height="190" rx="18" fill="#07111F"/><rect x="1" y="1" width="1078" height="188" rx="17" fill="none" stroke="#22D3EE"/>
+  <rect x="0" width="8" height="190" rx="4" fill="#22D3EE"/><text x="34" y="42" fill="#22D3EE" font-family="ui-monospace,Consolas,monospace" font-size="14">03 // API ENGINEERING</text>
+  <text x="34" y="79" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial" font-size="28" font-weight="700">Task API</text>
+  <text x="34" y="111" fill="#B7C9DE" font-family="Inter,Segoe UI,Arial" font-size="16">PostgreSQL CRUD, Supabase authentication and schema-validated LLM support triage.</text>
+  <text x="34" y="143" fill="#7D92AE" font-family="ui-monospace,Consolas,monospace" font-size="14">ROLE  Sole developer · API, authentication, LLM workflow and tests</text>
+  <text x="34" y="168" fill="#22D3EE" font-family="ui-monospace,Consolas,monospace" font-size="13">FastAPI · PostgreSQL · Supabase · HTTPX · Docker · pytest</text>
+  <rect x="844" y="28" width="200" height="30" rx="15" fill="#0B2630" stroke="#22D3EE"/><text x="944" y="48" fill="#9EF2FF" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="12">TRAINING · PORTFOLIO</text>
+  <text x="1044" y="164" fill="#22D3EE" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13">VIEW REPOSITORY ↗</text>
+</svg>

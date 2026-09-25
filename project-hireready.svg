@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="190" viewBox="0 0 1080 190" role="img" aria-labelledby="t d">
+  <title id="t">HireReady CV</title><desc id="d">CV and ATS analysis product for Egypt and UK applicants.</desc>
+  <rect width="1080" height="190" rx="18" fill="#07111F"/><rect x="1" y="1" width="1078" height="188" rx="17" fill="none" stroke="#3FB950"/>
+  <rect x="0" width="8" height="190" rx="4" fill="#3FB950"/><text x="34" y="42" fill="#3FB950" font-family="ui-monospace,Consolas,monospace" font-size="14">02 // AI PRODUCT</text>
+  <text x="34" y="79" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial" font-size="28" font-weight="700">HireReady CV</text>
+  <text x="34" y="111" fill="#B7C9DE" font-family="Inter,Segoe UI,Arial" font-size="16">Explainable CV/ATS analysis with role matching and guarded Gemini-assisted feedback.</text>
+  <text x="34" y="143" fill="#7D92AE" font-family="ui-monospace,Consolas,monospace" font-size="14">ROLE  Sole developer · product, analysis engine and AI integrations</text>
+  <text x="34" y="168" fill="#22D3EE" font-family="ui-monospace,Consolas,monospace" font-size="13">Next.js · React · Tailwind CSS · Gemini · Supabase</text>
+  <rect x="906" y="28" width="138" height="30" rx="15" fill="#0B2A1D" stroke="#3FB950"/><text x="975" y="48" fill="#A9F2BB" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="12">LIVE MVP</text>
+  <text x="1044" y="164" fill="#3FB950" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="13">VIEW REPOSITORY ↗</text>
+</svg>
