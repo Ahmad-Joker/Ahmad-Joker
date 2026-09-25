@@ -113,6 +113,12 @@
 ## GitHub activity
 
 <p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Ahmad-Joker&amp;theme=aurora&amp;style=aura" width="100%" alt="Animated GitHub contribution activity heatmap for Ahmad-Joker" />
+</p>
+
+<p align="center"><sub>Animated contribution activity · refreshed from public GitHub data</sub></p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad-Joker&theme=github_dark" width="100%" alt="Ahmad-Joker GitHub contribution summary" />
 </p>
 
