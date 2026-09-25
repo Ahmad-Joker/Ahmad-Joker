@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <img src="https://www.gitskins.com/api/section/chess?username=Ahmad-Joker&amp;theme=aurora" width="70%" alt="Automatic GitHub contribution chess replay for Ahmad-Joker" />
+</p>
+
+<p align="center"><sub>Automatic contribution chess replay · generated from public GitHub activity</sub></p>
+
+<p align="center">
   <img src="signal.svg" width="100%" alt="Verified delivery signal: 78 automated tests, 34 documented design decisions, 2 live products, and a 3.6 GPA" />
 </p>
 
